@@ -1,3 +1,5 @@
+/******party members slider *******/
+
 .member {
 	-webkit-filter: grayscale(100%);
 	/* Chrome, Safari, Opera */
@@ -149,6 +151,9 @@ ul {
 	-moz-animation-play-state: paused;
 	-webkit-animation-play-state: paused;
 }
+
+
+/****** footer *******/
 
 footer {
 	width: 100%;
