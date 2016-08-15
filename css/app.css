@@ -1,0 +1,13 @@
+.member {
+	-webkit-filter: grayscale(100%);
+	/* Chrome, Safari, Opera */
+	filter: grayscale(100%);
+	height: 60px;
+}
+
+.member:hover {
+	-webkit-filter: grayscale(0%);
+	/* Chrome, Safari, Opera */
+	filter: grayscale(0%);
+	transition: 1s;
+}
