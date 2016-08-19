@@ -129,7 +129,7 @@ ul.slides {
 .slide {
   display: inline-block;
   float: left;
-  width: 97vw;
+  width: 100vw;
 }
 
 .slider {
@@ -145,7 +145,7 @@ ul.slides {
 }
 .slider .slide {
   position: relative;
-  padding: 2em;
+  padding: 5em;
   box-sizing: border-box;
 }
 .slider .slide p {
