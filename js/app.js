@@ -104,3 +104,7 @@ function slider() {
   $($(slides).children()[current-1]).addClass('active');
   
 }
+
+
+
+
